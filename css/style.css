@@ -1,0 +1,56 @@
+.carousel-caption{
+	position: absolute;
+	top: 20vh;
+	text-align: center;
+}
+
+.logo{
+	width: auto;
+	height: 60px;
+}
+
+.people{
+	padding-top: 50px;
+	text-align: center;
+}
+
+.people img{
+	width: 70%;
+}
+
+.people h2, .info h2, .contacto p{
+	font-size: 1.5rem;
+}
+
+.people p, .info p, .contacto p{
+	font-size: 0.9rem;
+}
+
+.info-bg{
+	border-top: 1px solid lightgrey;
+	border-bottom: 1px solid lightgrey;
+	background-color: #F2F2F2;
+}
+
+.info{
+	padding: 50px 0;
+	text-align: center;
+}
+
+.info button{
+	margin-bottom: 20px;
+}
+
+.contacto{
+	padding: 50px 0;
+}
+
+.footer{
+	height: 50px;
+	background-color: black;
+	color: white;
+}
+
+.footer p{
+	padding-top: 15px;
+}
